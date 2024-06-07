@@ -6,8 +6,8 @@ This Jupyter Notebook script uses K-Nearest Neighbors (KNN) to predict bank fail
 
 ## Files
 The data used in this project includes:
-- 'institutions.csv': Data about financial institutions.
-- 'banklist.csv': Data about failed banks.
+- `institutions.csv`: Data about financial institutions.
+- `banklist.csv`: Data about failed banks.
 
 ## Dependencies
 - [matplotlib](https://matplotlib.org/)
